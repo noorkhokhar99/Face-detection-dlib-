@@ -1,2 +1,2 @@
-# Face-detection-dlib-
+# Face-detection-dlib
 face detection
